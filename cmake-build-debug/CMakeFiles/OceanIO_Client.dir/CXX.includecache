@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/InputParam.h
+
+../include/any.h
+bits/unique_ptr.h
+-
+memory
+-
+type_traits
+-
+typeinfo
+-
+iostream
+-
+
+/home/ryan/CLionProjects/OceanIO-Client/include/properties/Property.h
+vector
+-
+string
+-
+
+/home/ryan/CLionProjects/OceanIO-Client/main.cpp
+iostream
+-
+any.h
+-
+vector
+-
+
+/home/ryan/CLionProjects/OceanIO-Client/src/InputParam.cpp
+any.h
+-
+InputParam.h
+/home/ryan/CLionProjects/OceanIO-Client/src/InputParam.h
+
+/home/ryan/CLionProjects/OceanIO-Client/src/properties/Property.cpp
+../../include/properties/Property.h
+/home/ryan/CLionProjects/OceanIO-Client/include/properties/Property.h
+

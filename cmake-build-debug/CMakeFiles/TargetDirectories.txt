@@ -1,0 +1,3 @@
+/home/ryan/CLionProjects/OceanIO-Client/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ryan/CLionProjects/OceanIO-Client/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ryan/CLionProjects/OceanIO-Client/cmake-build-debug/CMakeFiles/OceanIO_Client.dir
